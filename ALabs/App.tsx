@@ -6,9 +6,7 @@ import { request, PERMISSIONS, RESULTS } from 'react-native-permissions';
 import Signin from './android/app/Compo/Signin';
 import { NavigationContainer } from '@react-navigation/native';
 import { createNativeStackNavigator } from '@react-navigation/native-stack';
-import AllHospitals from './android/app/Compo/AllHospitals';
 import HospitalOnMap from './android/app/Compo/HospitalOnMap';
-import HospitalMap from './android/app/Compo/HospitalMap';
 import ListOfHospitals from './android/app/Compo/ListOfHospitals';
 
 import LocationEnabler from 'react-native-android-location-enabler';
