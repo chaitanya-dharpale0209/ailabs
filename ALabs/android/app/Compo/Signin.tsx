@@ -8,10 +8,10 @@ import axios from 'axios';
 import AsyncStorage from '@react-native-async-storage/async-storage';
 
 GoogleSignin.configure({
-  iosClientId: '1008176566294-2gg670mq6o4i3mnsv4rr9b9gfhhb78e0.apps.googleusercontent.com',
+  iosClientId: 'XXXXX',
 });
 
-const API_KEY = 'AIzaSyCycuR2Ty8Dhq1EkMYTL3uZqmjD8dMjxx4'; 
+const API_KEY = 'XXXXX' 
 
 const Signin = () => {
   const [userInfo, setUserInfo] = useState(null);
@@ -105,7 +105,7 @@ const getNearbyHospitals = async (latitude, longitude) => {
   return (
     <View style={{ flex: 1, justifyContent: 'center', alignItems: 'center' }}>
       <Text style={{ fontSize: 24, marginBottom: 20 }}>
-        'Sign in with Google'
+        Welocome to AI47Labs
       </Text>
 
     
