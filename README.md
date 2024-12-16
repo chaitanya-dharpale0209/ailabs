@@ -37,9 +37,10 @@ Before you can run the app locally, make sure you have the following installed o
 ### Steps to Run the App Locally
 
 1. **Clone the repository**:
+   
    git clone https://github.com/your-username/hospital-locator-app.git
 
-2. 
+3. 
 Congratulations on completing your app! Here's a sample README.md file content that you can use for your GitHub repository. You can modify or expand it based on any additional details you'd like to include.
 
 markdown
