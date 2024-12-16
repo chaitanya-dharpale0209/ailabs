@@ -1,5 +1,6 @@
 # Hospital Locator AI47Labs (An Assignment)
 Note 1: Before using the app, make sure you keep your Device's location turned on.
+
 Note 2: In the project file please generate all the api credentials given below in requirements.
 
 ## Overview
